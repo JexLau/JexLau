@@ -31,4 +31,8 @@ No activity tracked
 
 ### 👀 Visitors Count
 
+```txt
+Start at 06/10/2023
+```
+
 ![gh_visitors](https://profile-counter.glitch.me/jexlau/count.svg)
