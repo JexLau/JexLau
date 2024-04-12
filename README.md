@@ -9,8 +9,6 @@
 <code><a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg" /></a></code>
 <code><a href="https://threejs.org/"><img src="https://api.iconify.design/logos:threejs.svg" /></a></code>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=jexlau&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="jexlau's Github Stats">
-
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
